@@ -11,7 +11,7 @@ function Home() {
         <div className="col-lg-7 text-center text-lg-start">
           
           <img
-            src="https://cdni.iconscout.com/illustration/premium/thumb/contact-us-3483604-2912020.png"
+            src="https://png.pngtree.com/illustration/20190226/ourlarge/pngtree-business-office-meeting-illustration-image_10276.jpg"
             className="img-fluid"
             alt="Contact Us Illustration"
           />

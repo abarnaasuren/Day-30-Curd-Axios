@@ -7,7 +7,7 @@ function Footer(props) {
         <div className="row justify-content-center align-items-center">
           <div className="col-md-6">
             <p className="mb-0">
-              © 2023 All rights reserved By <span className="font-weight-bold">SHANMUGAM</span>.
+              <b>You can  Add to List and Edit or Delete Data </b>
             </p>
           </div>
         </div>
